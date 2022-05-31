@@ -1,1 +1,1 @@
-# Projeto criado por: Victor Rubem e Guilherme Augusto 
+# Projeto criado por: Victor Rubem C. Campos
